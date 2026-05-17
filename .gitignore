@@ -1,0 +1,12 @@
+﻿# OS / editor noise
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+~$*
+
+# JLCEDA automatic backups are intentionally excluded
+*_backup/
+*.zip
+
+# Keep only selected project files in this repository
